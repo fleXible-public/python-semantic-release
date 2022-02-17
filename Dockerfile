@@ -1,5 +1,5 @@
 # This Dockerfile is only for GitHub Actions
-FROM python:3.9
+FROM python:3.10.0b3
 
 ENV PYTHONPATH /semantic-release
 
